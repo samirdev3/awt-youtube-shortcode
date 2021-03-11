@@ -6,8 +6,10 @@
    Version: 1.0.2
    Author: Samir
    Author URI: https://github.com/samirdev3
-   License: GPL2
+   License: GPL2+
 */
+
+// Exit if accessed directly.
 if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
